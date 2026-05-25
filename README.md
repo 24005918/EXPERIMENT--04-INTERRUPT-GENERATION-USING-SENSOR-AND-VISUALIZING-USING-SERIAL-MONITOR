@@ -703,7 +703,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 
+
+
 ## Output screen shots of serial port utility   :
+
 ## 4A :
  <img width="1918" height="1198" alt="Screenshot 2026-05-22 102355" src="https://github.com/user-attachments/assets/64c1a686-fc58-4ba4-83eb-9710a2211170" />
 ## 4B :
@@ -712,8 +715,11 @@ void assert_failed(uint8_t *file, uint32_t line)
  
  ## Circuit board :
  <img width="720" height="1280" alt="WhatsApp Image 2026-05-22 at 10 39 40 AM" src="https://github.com/user-attachments/assets/d1c52d07-0c94-4619-b4fc-e1d860ffb6aa" />
+ 
 <img width="1280" height="720" alt="WhatsApp Image 2026-05-22 at 10 39 41 AM" src="https://github.com/user-attachments/assets/e70c5406-1cc3-40c8-a1e6-599f77e12c42" />
+
 <img width="1280" height="720" alt="WhatsApp Image 2026-05-21 at 7 36 54 PM" src="https://github.com/user-attachments/assets/f4e09c31-ec55-4d2e-a40b-3af08be917fb" />
+
 <img width="1280" height="720" alt="WhatsApp Image 2026-05-21 at 7 36 55 PM" src="https://github.com/user-attachments/assets/cce15d1b-3023-4f80-90d9-8505c8407d56" />
 
  
